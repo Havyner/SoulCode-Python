@@ -19,3 +19,5 @@ v = Veiculo('carro', '21h3242l2', 'Fiat', 'Palio', '2010')
 print(vars(v))
 m = Motocicleta('motocicleta', 'asn232nj4j', 'Yamaha', 'Fazer', '2020', '160')
 print(vars(m))
+
+print("Este é um teste de atualização para o git!!")
