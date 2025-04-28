@@ -1,5 +1,6 @@
 '''ASSOCIAÇÃO
 Ex.: Utilizar uma classe como atributo de outra classe
+REVISAR
 '''
 
 class Escritor():
