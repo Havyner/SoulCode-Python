@@ -29,7 +29,7 @@ class Caneta():
         return self.__marca
     
     def escrever(self):
-        print("Caneta está escrevendo!!")
+        print("Caneta está escrevendo...")
 
 escritor = Escritor('José')
 caneta = Caneta('BIC')
