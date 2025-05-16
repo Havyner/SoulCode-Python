@@ -21,5 +21,6 @@ Utilize esta lógica para construir seu algoritmo.
 
 v1 = int(input('Informe o 1ª valor: '))
 v2 = int(input('Informe o 2ª valor: '))
+print("Teste")
 
 print(v1 * v2)
