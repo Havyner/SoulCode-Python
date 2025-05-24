@@ -23,6 +23,9 @@ print(vars(carro))
 aviao = Aviao('Boing', '1000', 'Azul', 'AirBus 433', '2020')
 print(vars(aviao))
 
+carro2 = Veiculo('carro', 'DA34FWI456H', 'Fiat', 'Siena', '2022')
+print(vars(carro2))
+
 
 # self: refere-se ao próprio objeto que utilizou o método
 # __init__: método relacionado ao construtor
