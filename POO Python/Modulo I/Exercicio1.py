@@ -20,6 +20,4 @@ class Aves(Animal):
 a_arara = Aves('Arara Azul', '25', 'Arara', 'ave tropical')
 print(vars(a_arara))
 a_arara.get_especie()
-print(a_arara.get_especie)
-
-print('Teste')
+print(vars(a_arara.get_especie))
